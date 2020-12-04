@@ -1,0 +1,22 @@
+border:double 5px #00e000;
+-moz-border-radius-topleft: 75px;
+-moz-border-radius-topright:75px;
+-moz-border-radius-bottomleft:75px;
+-moz-border-radius-bottomright:75px;
+-webkit-border-top-left-radius:75px;
+-webkit-border-top-right-radius:75px;
+-webkit-border-bottom-left-radius:75px;
+-webkit-border-bottom-right-radius:75px;
+border-top-left-radius:75px;
+border-top-right-radius:75px;
+border-bottom-left-radius:75px;
+border-bottom-right-radius:75px;
+background:-webkit-gradient(linear, 48% 100%, 49% 27%, from(#00FF00), to(#00FF8F))text-shadow:5px 5px 5px #000000;
+@font-face {
+	font-family: 'SouciSansRegular';
+	src: url('SOUCISAN.eot');
+	src: local('SouciSans'), local('SouciSans'), url('SOUCISAN.woff') format('woff'), url('SOUCISAN.ttf') format('truetype');
+}
+.classname{
+	font:15px bold normal SouciSansRegular;
+}
