@@ -1,4 +1,6 @@
-border:double 5px #00e000;
+CSS
+	#game
+	{border:double 5px #00e000;
 -moz-border-radius-topleft: 75px;
 -moz-border-radius-topright:75px;
 -moz-border-radius-bottomleft:75px;
@@ -20,3 +22,5 @@ background:-webkit-gradient(linear, 48% 100%, 49% 27%, from(#00FF00), to(#00FF8F
 .classname{
 	font:15px bold normal SouciSansRegular;
 }
+
+	}
